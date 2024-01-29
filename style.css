@@ -194,7 +194,7 @@
   .hero {
     background: #000000;
     background: linear-gradient(to right, #161616, #000000);
-    padding: 200px 0;
+    padding: 10px 0;
   }
   
   .hero__container {
@@ -204,9 +204,9 @@
     align-items: center;
     max-width: 1200px;
     margin: 0 auto;
-    height: 90%;
+    height: 100vh;
     text-align: center;
-    padding: 30px;
+    padding: 20px;
   }
   
   .hero__heading {
@@ -231,7 +231,7 @@
     -webkit-background-clip: text;
     -moz-background-clip: text;
     -webkit-text-fill-color: transparent;
-    -mo-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
   }
   
   .hero__description {
@@ -271,7 +271,7 @@
   /* About Section */
   .main {
     background-color: #131313;
-    padding: 10rem 0;
+    padding: 5rem 0;
   }
   
 
@@ -282,11 +282,11 @@
     align-items: center;
     justify-content: center;
     margin: 0 auto;
-    height: 90%;
+    height: 100vh;
     z-index: 1;
     width: 100%;
     max-width: 1300px;
-    padding: 0 50px;
+    padding: 0 40px;
   }
   
   .main__content {
@@ -484,7 +484,7 @@
     justify-content: center;
     align-items: center;
     height: 100%;
-    padding: 10rem 0;
+    padding: 5rem 0;
   }
   
   .services h1 {
